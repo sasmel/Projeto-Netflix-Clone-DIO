@@ -2,6 +2,8 @@
 Neste projeto eu clonei a interface da Netflix utilizando HTML5, CSS3, Javascript e jQuery.
 Tive alguns problemas com o owl carousel que não consegui corrigir.
 Segue Log de erros:
+
+
 owl.carousel.min.js:6 
         
        Uncaught TypeError: Cannot read properties of undefined (reading 'fn')
