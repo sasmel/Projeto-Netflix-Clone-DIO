@@ -1,4 +1,4 @@
-# Projeto-Netflix-Clone-DIO
+# Projeto Netflix Clone DIO 
 Neste projeto eu clonei a interface da Netflix utilizando HTML5, CSS3, Javascript e jQuery.
 Tive alguns problemas com o owl carousel que não consegui corrigir.
 Segue Log de erros:
@@ -14,7 +14,7 @@ Uncaught ReferenceError: $ is not defined                                       
     at setup.js:1    
 
 
-        Live reload enabled.                                                                                                    index.html:121  
+Live reload enabled.                                                                                                            index.html:121  
 
 
 GET http://127.0.0.1:5500/style/main.css?_cacheOverride=1635592617584 net::ERR_CONNECTION_REFUSED                               main.css:1
